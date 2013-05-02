@@ -9,4 +9,4 @@ Visit our tutorial link @ http://www.androidbegin.com/tutorial/android-button-cl
 
 **Screenshot**
 
-![Android Button Click New Activity Example ScreenShot](http://www.androidbegin.com.previewdns.com/wp-content/uploads/2012/09/Screenshot-ButtonClick1.png)
+![Android Button Click New Activity Example ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/Screenshot-ButtonClick1.png)
